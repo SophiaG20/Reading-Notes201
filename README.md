@@ -1,6 +1,8 @@
 # Reading-Notes201!
-#### These are Reading-Notes from Coding 201 Class July 2022-September 2022
-[Photo attempt](https://user-images.githubusercontent.com/88021419/178576577-6588e4bf-a3b9-4f1a-b521-5ede70f1d7f4.jpeg)
+#### These are Reading![Uploading 5F5B7A7C-BE53-4AFA-A7A5-9BD1C7336698.jpeg…]()
+-Notes from Coding 201 Class July 2022-September 2022
+![G20 as in woman with a happy face with her arms outstreched to the sky in a bright teal dress and yellow rainboots in a TADA facial expression of pure glee](https://user-images.githubusercontent.com/88021419/178600356-f822277d-8f9b-4c9f-ae93-a25502103263.jpeg)
+
 
 1. [Class 01](https://github.com/SophiaG20/Reading-Notes201/blob/d0e94e3208eed6a783d3d382681f195e5e44681d/Class%2001)
 2. [Class 02](https://github.com/SophiaG20/Reading-Notes201/blob/d0e94e3208eed6a783d3d382681f195e5e44681d/Class%2002)
