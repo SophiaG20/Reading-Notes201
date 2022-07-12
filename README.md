@@ -1,7 +1,12 @@
 # Reading-Notes201!
 [5F5B7A7C-BE53-4AFA-A7A5-9BD1C7336698](https://user-images.githubusercontent.com/88021419/178576577-6588e4bf-a3b9-4f1a-b521-5ede70f1d7f4.jpeg)
 
+## Introduction: Hello and welcome to my coding area on Git Hub. I also have digital homes at Replit, CodePen, and LinkedIn. So why G20? Well, my last name has always been very verrrryyyy long. SO when G20 joined the military, my first-ever officer at my first ever duty was reading my name and was like, how about I call you G20? It was a Harry Potter moment with the wand that works, and it STUCK! I am currently a student at [CodeFellows](https://www.codefellows.org/). Being with CodeFellows is very impressive, and they helped me get here and beyond. Thank you for coming here and enjoying my little bird's nest on centralized web 2.0.
 
+[Replit @SophiaG20](https://replit.com/@SophiaG20)
+[CodePen @SophiaG20](https://codepen.io/SophiaG20)
+[LinkedIn for Sophia G20](linkedin.com/in/sophiag20)
+Learn more about me at my [Sophia G20's GitHub Profile Page](https://github.com/SophiaG20).
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -25,4 +30,13 @@
 15. [Class 15](https://github.com/SophiaG20/Reading-Notes201/blob/93920855f82744512e0aa74d1c62a4bf3545b528/Class%2015)
 These are Reading-Notes from Coding 201 Class July 2022-September 2022
 
+## Useful Links for Sophia G20
+
+[GitHub Editor for this Page](https://github.com/Sue-Young/reading-notes/edit/gh-pages/README.md)
+
+[GitHub CLI](https://cli.github.com/)
+
+[Emoji Markdown Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
+
+[Repository Settings](https://github.com/Sue-Young/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
