@@ -1,5 +1,6 @@
 Reading Notes Class 01
 ### **A Poem on HTTP and sending data between computers:**
+
 > A cell interacts with another. A client requests to a 
 > server. A server responds to a client. People may squander 
 > with, "Which computer do you use?". They all connect using > metal and lightning. One person throws out a line to the 
@@ -7,6 +8,7 @@ Reading Notes Class 01
 > people connected. <link> starts , more info, <script> then > some more. 0000000's and 111111111's. 
 
 ### **Ever wonder how HTML, CSS, and JS files are "*parsed" in the browser?(In what order does your computer read the site you are on)**
+  
 > The browser goes into HTML first going through the <link> to external CSS stylesheets and any <script>
 > As the website parses the HTML, it sends back requests to the server for CSS files it has found from the <link> elements. So like a flubber, the ball bounces from one spot to the other and throws back signals to the other flubber what it is doing. Then, JavaScript files were found from <script> elements, which parsed the CSS and JavaScript.
 >Sophia, what does that mean? It means that the computer has a certain way of showing you information, like a connects the dots; if you skip around, you will not guess what the image is.
