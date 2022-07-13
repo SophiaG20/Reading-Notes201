@@ -17,9 +17,10 @@ Describe how HTML, CSS, and JS files are "parsed" in the browser.
 
 Our class recommends to find an image, go to [google images](https://www.google.com/imghp?gws_rd=ssl). Many photos are copyrighted, so we recommend clicking on the Tools button and then the resulting Usage rights option that appears below. You should choose the option Creative Commons licenses. It is good practice to shout out where you got your photos. Images in web 2.0 is a very murky area, so please reach out to me so we can chat more on this.
 
-How do you create a String vs. a Number in JavaScript?
-
-What is a Variable, and why are they essential in JavaScript?
+## Things I want to know more about:
+  
+> I would like to see someone show me these questions being shown in real life. 
+> I also want to try more with HTML because I still feel rusty in it. 
 1. [Class 01](https://github.com/SophiaG20/Reading-Notes201/blob/3167d342ec425625919c241c80682b9ca656fe20/Class01.md)
 2. [Class 02](https://github.com/SophiaG20/Reading-Notes201/blob/4f2b38e40712a10bf127557c367427e50de11b60/Class02.md)
 3. [Class 03]()
