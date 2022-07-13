@@ -5,7 +5,7 @@
 ![G20 as in woman with a happy face with her arms outstreched to the sky in a bright teal dress and yellow rainboots in a TADA facial expression of pure glee](https://user-images.githubusercontent.com/88021419/178600356-f822277d-8f9b-4c9f-ae93-a25502103263.jpeg)
 
 
-1. [Class 01](Class01.md)
+1. [Class 01](https://github.com/SophiaG20/Reading-Notes201/blob/3167d342ec425625919c241c80682b9ca656fe20/Class01.md)
 2. [Class 02]()
 3. [Class 03]()
 4. [Class 04]()

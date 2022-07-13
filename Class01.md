@@ -20,7 +20,7 @@ Our class recommends to find an image, go to [google images](https://www.google.
 How do you create a String vs. a Number in JavaScript?
 
 What is a Variable, and why are they essential in JavaScript?
-1. [Class 01](Class01.md)
+1. [Class 01](https://github.com/SophiaG20/Reading-Notes201/blob/3167d342ec425625919c241c80682b9ca656fe20/Class01.md)
 2. [Class 02]()
 3. [Class 03]()
 4. [Class 04]()
