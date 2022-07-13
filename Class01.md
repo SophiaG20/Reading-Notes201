@@ -21,7 +21,7 @@ How do you create a String vs. a Number in JavaScript?
 
 What is a Variable, and why are they essential in JavaScript?
 1. [Class 01](https://github.com/SophiaG20/Reading-Notes201/blob/3167d342ec425625919c241c80682b9ca656fe20/Class01.md)
-2. [Class 02]()
+2. [Class 02](https://github.com/SophiaG20/Reading-Notes201/blob/4f2b38e40712a10bf127557c367427e50de11b60/Class02.md)
 3. [Class 03]()
 4. [Class 04]()
 5. [Class 05]()
