@@ -25,6 +25,7 @@ Reading Notes Class 01
 
 > I would like to see someone show me these questions being shown in real life. 
 > I also want to try more with HTML because I still feel rusty in it. 
+- [HOME](https://github.com/SophiaG20/Reading-Notes201)
 1. [Class 01](Class01.md)
 2. [Class 02](Class02.md)
 3. [Class 03](Class03.md)
