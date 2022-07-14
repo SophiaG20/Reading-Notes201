@@ -44,3 +44,20 @@ Describe a real-world Problem you could solve with a Function.
 3. List 2 different types of comparison operators.
   - == equal to
   - != not equal
+
+ - [HOME](README.md)
+1. [Class 01](Class01.md)
+2. [Class 02](Class02.md)
+3. [Class 03](Class03.md)
+4. [Class 04](Class04.md)
+5. [Class 05](Class05.md)
+6. [Class 06](Class06.md)
+7. [Class 07](Class07.md)
+8. [Class 08](Class08.md)
+9. [Class 09](Class09.md)
+10. [Class 10](Class10.md)
+11. [Class 11](Class11.md)
+12. [Class 12](Class12.md)
+13. [Class 13](Class13.md)
+14. [Class 14](Class14.md)
+15. [Class 15](Class15.md)
