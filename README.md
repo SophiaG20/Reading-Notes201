@@ -24,7 +24,7 @@
 
 ______________________________________________________________
 
-### Introduction: Hello and welcome to my coding area on Git Hub. I also have digital homes at Replit, CodePen, and LinkedIn. So why G20? Well, my last name has always been very verrrryyyy long. SO when G20 joined the military, my first-ever officer at my first ever duty was reading my name and was like, how about I call you G20? It was a Harry Potter moment with the wand that works, and it STUCK! I am currently a student at [CodeFellows](https://www.codefellows.org/). Being with CodeFellows is very impressive, and they helped me get here and beyond. Thank you for coming here and enjoying my little bird's nest on centralized web 2.0.
+### Introduction: Hello and welcome to my coding area on Git Hub. I also have digital homes at Replit, CodePen, and LinkedIn. So why G20? Well, my last name has always been very verrrryyyy long. SO when G20 joined the military, my first-ever officer at my first ever duty was reading my name and was like, how about I call you G20? It was a Harry Potter moment with the wand that works, and it STUCK! I am currently a student at [CodeFellows](https://www.codefellows.org/). Being with CodeFellows is very impressive, and they helped me get here and beyond. Thank you for coming here and enjoying my little bird's nest on centralized web 2.0
 
 - [Replit @SophiaG20](https://replit.com/@SophiaG20)
 - [CodePen @SophiaG20](https://codepen.io/SophiaG20)
