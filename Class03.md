@@ -24,8 +24,8 @@
 
 ### 1. When should you use an unordered list in your HTML document?
 
-> **<ul>** are and HTML element which 
- represents an unordered list of items. Think of **<ul>** as bullet points in a power point when listing information **"in no particular order"** 
+> **<ul>** are and HTML element which
+ represents an unordered list of items. Think of **<ul>** as bullet points in a power point when listing information **"in no particular order"**
 
 ### 2. How do you change the bullet style of unordered list items?
 
@@ -35,15 +35,15 @@
     **<li>**
   **<ul>**
   
-> 2. ***Nesting  list*** : Could be used when making points and sub points such as.. 
->   **<ul> **I like dogs**
+> 2. ***Nesting  list*** : Could be used when making points and sub points such as..
+>   **<ul>**I like dogs**
            **I like cats**
-            **<ul>** 
-                **<li>** Tabby cats **<li>**  
-                **<li>** Those multi coloures ones **<li>**
+            **<ul>**
+                **<li>**Tabby cats**<li>**  
+                **<li>**Those multi coloures ones**<li>**
                     **<ul>**
-                            **<li>** Tabby cats that are kitties **</li>**
-                            **<li>** Tabby cats that have extra toes **</li>**
+                            **<li>**Tabby cats that are kitties**</li>**
+                            **<li>**Tabby cats that have extra toes**</li>**
 >   first item
     second item
     second item first subitem
@@ -91,16 +91,6 @@ Simple example
   <li>run water until the puppys coat is free of shampoo</li>
 </ol>
 
-### Learn CSS
-
-## The Box Model
-
-### 1. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
-
-### 2.List and describe the four parts of an HTML elements box as referred to by the box model
-
-## **Learn JS**
-
 Arrays. Operators and Expressions. Conditionals. Loops.
 
 ### 1. What data types can you store inside of an Array?
@@ -109,21 +99,10 @@ Arrays. Operators and Expressions. Conditionals. Loops.
 
 > const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 
-#### List three shorthand operators for assignment in javascript and describe what they do
+## Things I want to know more about
 
-1.
-2.
-3.
+I want to ask my programming friends to screen share in discord and show me how they would use most of the <ul>
 
-#### Read the code below and evaluate the last expression and explain what the result would be and why
+I plan to dive into the internet and look for real world examples in marginzed peoples websites
 
- let a = 10;
- let b = 'dog';
- let c = false;
-
- // evaluate this
- (a + c) + b;
-
-### Describe a real world example of when a conditional statement should be used in a JavaScript program
-
-### Give an example of when a Loop is useful in JavaScript
+I want to see how the students in my class made examples
