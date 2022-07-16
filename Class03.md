@@ -25,7 +25,7 @@
 ### 1. When should you use an unordered list in your HTML document?
 
 > **<ul>** are and HTML element which
- represents an unordered list of items. Think of **<ul>** as bullet points in a power point when listing information **"in no particular order"**
+ represents an unordered list of items. Think of **<ul>** as bullet points in a PowerPoint when listing information **" in no particular order"**
 
 ### 2. How do you change the bullet style of unordered list items?
 
@@ -66,14 +66,14 @@
   <li>In the future I want to learn Arabic</li>
 </ul>
 
-### 3. When should you use an ordered list vs an unorder list in your HTML document?
+### 3. When should you use an ordered list vs. an unordered list in your HTML document?
 
--ordered list could be used when the information being presented are in a 1. 2. 3.... Step by step: such as Math, Self-learning, reciepes for food
+-the ordered list is to be used when the information presented is in a 1. 2. 3.... Step by Step: such as Math, Self-learning, recipes for food
 
--unordered lists could be used in a powerpoint when sharing information that you thought of but is not important in a matter or sequence: For example People can be sad for many reasons
--Pandemic -Lost their job -issues with their pets ..
+-unordered lists could be used in a PowerPoint when sharing information that you thought of but is not essential in a matter or sequence: For example, People can be sad for many reasons
+-Pandemic -Lost their job -issues with their pets...
 
-### 4.Describe two ways you can change the numbers on list items provided by an ordered list?
+### 4. Describe two ways you can change the numbers on list items provided by an ordered list?
 
 **In not particular order**
 Using Roman Numeral type
@@ -95,7 +95,7 @@ Arrays. Operators and Expressions. Conditionals. Loops.
 
 ### 1. What data types can you store inside of an Array?
 
-### 2.Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+### 2.Are the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
 > const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 
@@ -103,6 +103,6 @@ Arrays. Operators and Expressions. Conditionals. Loops.
 
 I want to ask my programming friends to screen share in discord and show me how they would use most of the <ul>
 
-I plan to dive into the internet and look for real world examples in marginzed peoples websites
+I plan to dive into the internet and look for real-world examples on marginalized people's websites.
 
-I want to see how the students in my class made examples
+I want to see how the students in my class made examples.
