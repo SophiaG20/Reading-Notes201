@@ -22,16 +22,54 @@
 
 ## Ordered and Unordered lists
 
-1. When should you use an unordered list in your HTML document?
+### 1. When should you use an unordered list in your HTML document?
 
 > **<ul>** are and HTML element which 
- represents an unordered list of items. Think of **<ul>** as bullet points in a power point when listing information **"in no particular order"**
+ represents an unordered list of items. Think of **<ul>** as bullet points in a power point when listing information **"in no particular order"** 
 
-How do you change the bullet style of unordered list items?
+### 2. How do you change the bullet style of unordered list items?
+
+> 1. ***Most basic use*** : Would be used for a list of items whoes order is **"meaningless"**
+  **<ul>**
+    **<li>**
+    **<li>**
+  **<ul>**
+  
+> 2. ***Nesting  list*** : Could be used when making points and sub points such as.. 
+>   **<ul> **I like dogs**
+           **I like cats**
+            **<ul>** 
+                **<li>** Tabby cats **<li>**  
+                **<li>** Those multi coloures ones **<li>**
+                    **<ul>**
+                            <li> Tabby cats that are kitties</li>
+                            <li> Tabby cats that have extra toes </li>
+first item
+second item
+second item first subitem
+second item second subitem
+second item second subitem first sub-subitem
+second item second subitem second sub-subitem
+second item second subitem third sub-subitem
+
+<ul>
+  <li>I love to speak Spanish</li>
+  <li>I love to learn English
+  <!-- Look, the closing </li> tag is not placed here! -->
+    <ol>
+      <li>I use Dualingo the most</li>
+      <li>Sometimes I talk with my co-worker who knows better English</li>
+      <li>Rarely I pay for a tutor and it is expensive</li>
+    </ol>
+  <!-- Here is the closing </li> tag -->
+  </li>
+  <li>In the future I want to learn Arabic</li>
+</ul>
 
 When should you use an ordered list vs an unorder list in your HTML document?
 Describe two ways you can change the numbers on list items provided by an ordered list?
-Learn CSS
+
+### Learn CSS
 The Box Model.
 
 Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
