@@ -42,15 +42,15 @@
                 **<li>** Tabby cats **<li>**  
                 **<li>** Those multi coloures ones **<li>**
                     **<ul>**
-                            <li> Tabby cats that are kitties</li>
-                            <li> Tabby cats that have extra toes </li>
-first item
-second item
-second item first subitem
-second item second subitem
-second item second subitem first sub-subitem
-second item second subitem second sub-subitem
-second item second subitem third sub-subitem
+                            **<li>** Tabby cats that are kitties **</li>**
+                            **<li>** Tabby cats that have extra toes **</li>**
+>   first item
+    second item
+    second item first subitem
+    second item second subitem
+    second item second subitem first sub-subitem
+    second item second subitem second sub-subitem
+    second item second subitem third sub-subitem
 
 <ul>
   <li>I love to speak Spanish</li>
@@ -66,23 +66,56 @@ second item second subitem third sub-subitem
   <li>In the future I want to learn Arabic</li>
 </ul>
 
-When should you use an ordered list vs an unorder list in your HTML document?
-Describe two ways you can change the numbers on list items provided by an ordered list?
+### 3. When should you use an ordered list vs an unorder list in your HTML document?
+
+-ordered list could be used when the information being presented are in a 1. 2. 3.... Step by step: such as Math, Self-learning, reciepes for food
+
+-unordered lists could be used in a powerpoint when sharing information that you thought of but is not important in a matter or sequence: For example People can be sad for many reasons
+-Pandemic -Lost their job -issues with their pets ..
+
+### 4.Describe two ways you can change the numbers on list items provided by an ordered list?
+
+**In not particular order**
+Using Roman Numeral type
+<ol type="i">
+  <li>Introduction</li>
+  <li>Ways you are awesome</li>
+  <li>Further Reading</li>
+</ol>
+
+Simple example
+<ol>
+  <li>Put the dog in the bathtub</li>
+  <li>Rinse the dog with warm water</li>
+  <li>Shampoo the puppy avoiding the eyes and lather well</li>
+  <li>run water until the puppys coat is free of shampoo</li>
+</ol>
 
 ### Learn CSS
-The Box Model.
 
-Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
-List and describe the four parts of an HTML elements box as referred to by the box model.
-Learn JS
+## The Box Model
+
+### 1. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
+
+### 2.List and describe the four parts of an HTML elements box as referred to by the box model
+
+## **Learn JS**
+
 Arrays. Operators and Expressions. Conditionals. Loops.
 
-What data types can you store inside of an Array?
-Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+### 1. What data types can you store inside of an Array?
 
- const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
-List five shorthand operators for assignment in javascript and describe what they do.
-Read the code below and evaluate the last expression and explain what the result would be and why.
+### 2.Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+
+> const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+
+#### List three shorthand operators for assignment in javascript and describe what they do
+
+1.
+2.
+3.
+
+#### Read the code below and evaluate the last expression and explain what the result would be and why
 
  let a = 10;
  let b = 'dog';
@@ -90,5 +123,7 @@ Read the code below and evaluate the last expression and explain what the result
 
  // evaluate this
  (a + c) + b;
-Describe a real world example of when a conditional statement should be used in a JavaScript program.
-Give an example of when a Loop is useful in JavaScript.
+
+### Describe a real world example of when a conditional statement should be used in a JavaScript program
+
+### Give an example of when a Loop is useful in JavaScript
