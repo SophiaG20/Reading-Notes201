@@ -5,7 +5,7 @@ Reading Notes Class 01
 > server. A server responds to a client. People may squander 
 > with, "Which computer do you use?". They all connect using > metal and lightning. One person throws out a line to the 
 > other. The line says "200 OK," and then it becomes two 
-> people connected. <link> starts , more info, <script> then > some more. 0000000's and 111111111's. 
+> people connected. <link> starts , more info, <script> then > some more. 0000000's and 111111111's.
 
 ### **Ever wonder how HTML, CSS, and JS files are "*parsed" in the browser?:**
   
@@ -23,9 +23,11 @@ Reading Notes Class 01
 
 ### **Things I want to know more about:**
 
-> I would like to see someone show me these questions being shown in real life. 
-> I also want to try more with HTML because I still feel rusty in it. 
-- [HOME](README.md)
+> I would like to see someone show me these questions being shown in real life.
+> I also want to try more with HTML because I still feel rusty in it.
+
+# [HOME](README.md)
+
 1. [Class 01](Class01.md)
 2. [Class 02](Class02.md)
 3. [Class 03](Class03.md)
