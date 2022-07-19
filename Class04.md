@@ -59,6 +59,16 @@ the inline element's influence.</div>
 
 ## 3. ___ positioning is the default for every html element.
 
+Static positioning
+
+Static positioning is the default that every element gets. It just means "put the element into its normal position in the document flow — nothing special to see here."
+
+Static Positing example:
+
+<p class="positioned"> … </p>
+
 ## 4. Name a few advantages to using absolute positioning on an element.
+
+This is very useful: it means that we can create isolated UI features that don't interfere with the layout of other elements on the page. For example, popup information boxes, control menus, rollover panels, UI features that can be dragged and dropped anywhere on the page, and so on.
 
 ## 5. What is a key difference between fixed positioning and absolute positioning?
