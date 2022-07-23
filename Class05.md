@@ -15,3 +15,28 @@
 13. [Class 13](Class13.md)
 14. [Class 14](Class14.md)
 15. [Class 15](Class15.md)
+
+# HTML Media
+
+### Using Images In HTML. Read Common Image Types and Choosing Image Formats
+
+What is a real world use case for the alt attribute being used in a website?
+How can you improve accessibility of images in an HTML document?
+Provide an example of when the figure element would be useful in an HTML document.
+Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
+What image type would you use to display a screenshot on your website and why?
+
+# Learn CSS
+
+### Using Color in CSS. Styling HTML Text Elements
+
+1.) background-color
+The background color to use in areas of the element that have no foreground content.
+
+The background-color property defines the background color on any element in CSS. The property accepts any valid <color>. A background-color extends underneath the content and padding box of the element.
+
+2.) Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
+
+3.) What should you consider when choosing fonts for an HTML document?
+What do font-size, font-weight, and font-style do to HTML text elements?
+Describe two ways you could add spacing around the characters displayed in an h1 element.
