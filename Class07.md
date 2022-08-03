@@ -15,3 +15,27 @@
 13. [Class 13](Class13.md)
 14. [Class 14](Class14.md)
 15. [Class 15](Class15.md)
+
+Readings: Object-Oriented Programming, HTML Tables
+Below you will find some reading material, code samples, and some additional resources that support the topic for this class and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+Reading
+Domain Modeling
+
+Explain why we need domain modeling.
+
+-
+HTML Table Basics
+
+Why should tables not be used for page layouts?
+List and describe 3 different semantic HTML elements used in an HTML <table>.
+Introducing Constructors
+
+What is a constructor and what are some advantages to using it?
+How does the term this differ when used in an object literal versus when used in a constructor?
+Object Prototypes Using A Constructor
+
+Explain prototypes and inheritance via an analogy from your previous work experience.
+NOTE: This is a very common front end developer interview question
